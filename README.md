@@ -1,19 +1,21 @@
 # Mr Poll's Privacy Policy
 
-### What is a Privacy Policy?
 A privacy policy is a document that explains how an organization handles any person's 
 information gathered in its operations.
 
+**USERS WILL BE NOTIFIED OF ANY CHANGE OR UPDATE OF THIS POLICY. WHEN THIS POLICY REFERANCES TO "WE" AND "US" THAT IS DEFINED AS [OUR TEAM](https://github.com/mrpollbot/Privacy/#how-can-i-request-my-data-to-be-deleted). YOU CAN [ASK FOR YOUR DATA TO BE DELETED](https://github.com/mrpollbot/Privacy/#how-can-i-request-my-data-to-be-deleted) AT ANY TIME.**
+
 ## Privacy Policy
 We understand the importance of the data we collect from users who use our service and we have taken the necessary steps in making sure your data is safe and is used for it's intended purpose.\
-**Users will be notified if a Change or Update Occurs with this Policy, and if you have any questions feel free to [Join our Support Server](https://discord.gg/PyzsbsjRw3)**
+**We will answer any questions about our PRIVACY POLICY in [the support server.](https://discord.gg/PyzsbsjRw3)**
 
 ### The data we collect
-The data we collect from users/their severs are as follows:
+The data we collect and store from users/their servers are as follows:
 
-* Message Content and & Reactions For Starboard, Polls, and Suggestions
-* Channel, Message, Guild and Role IDs: For Starboard, Polls, Suggestions, AutoRoles, Welcome and Leaves and Voting Channels
-* User ID, Username and Discriminator: For Suggestions
+* Message Content and reactions for Starboard, Polls, and Suggestions
+* Channel ID, Message ID, Guild ID and Role ID: For Starboard, Polls, Suggestions, AutoRoles, Welcome and Leaves and Voting Channels
+* User ID: For Command Timeouts, Suggestions and Polls
+* Username and Discriminator: For Suggestions
 
 ### How is the data used?
 The data is used for the operation of the Modules which the service provides.
@@ -21,13 +23,11 @@ For example:
 For suggestions we use the user's username and discriminator to display to everyone who created the suggestion.
 
 ### Who has access to my data?
-Only the owner and the developers have access to your data for our service. Under no circumstance, anyone other than the mentioned above staff will be provided access to it. We take adequate measures to keep it safe and secured. We will never sell or share your information with a third party.
+Only the owner and the developers have access to your data for our service. Under no circumstance, anyone other than us will be provided access to it. We take adequate measures to keep it safe and secured. We will never sell or share your information with a third party.
 
 ### How can I request my data to be deleted?
-You can request that we delete your data by [Joining our Support Server](https://discord.gg/PyzsbsjRw3) and asking one of the Developers to do so. Anyone who has been blocked from the service will have all their data removed except their userId. This is to prevent any user from exploiting or abusing our system
+* Please email mrpolldiscord@gmail.com to request for your data to be deleted, your user id will be required in the email.
 
 ## The Team
-* Owner: [SteveTheMonki](https://github.com/SteveTheMonki)
-* Developers:
-1. [Drx](https://github.com/Drxckzyz)
-2. [Littie6amer](https://github.com/Littie6amer)
+* Owner: [SteveTheMonki#0578](https://github.com/SteveTheMonki)
+* Developers: [Drx#7723](https://github.com/Drxckzyz) & [Littie6amer#2979](https://github.com/Littie6amer)
