@@ -12,14 +12,15 @@ We understand the importance of the data we collect from users who use our servi
 ### The data we collect
 The data we collect and store from users/their servers are as follows:
 
-* Message Content and reactions for Starboard, Polls, and Suggestions
-* Channel ID, Message ID, Guild ID and Role ID: For Starboard, Polls, Suggestions, AutoRoles, Welcome and Leaves and Voting Channels
+* Message Content and Reactions for Starboard, Polls, and Suggestions
+* Channel ID, Message ID and Guild ID: For Polls and Suggestions.
 * User ID: For Command Timeouts, Suggestions and Polls
 * Username and Discriminator: For Suggestions
 
 ### How is the data used?
 The data is used for the operation of the Modules which the service provides.
-For example:
+
+__For example:__
 For suggestions we use the user's username and discriminator to display to everyone who created the suggestion.
 
 ### Who has access to my data?
