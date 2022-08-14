@@ -30,5 +30,5 @@ Only the owner and the developers have access to your data for our service. Unde
 
 ## The Team
 * Owner: [SteveTheMonki#0578](https://github.com/SteveTheMonki)
-* Developers: [Drx#7723](https://github.com/Drxckzyz) & [Littie#2979](https://github.com/Littie6amer) & [RJ1/Raymond](https://github.com/RaymondJiang1)
+* Developers: [Drx#7723](https://github.com/Drxckzyz) & [Littie#2979](https://github.com/Littie6amer) & [RJ1](https://github.com/RaymondJiang1)
 * Manager: [Muffin.#0069](https://github.com/AMufInABox)
