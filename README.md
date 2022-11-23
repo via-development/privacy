@@ -3,6 +3,10 @@
 A privacy policy is a document that explains how an organization handles any person's 
 information gathered in its operations.
 
+**Effective: 11/13/2021**
+
+**Last Updated: 11/13/2022**
+
 **USERS WILL BE NOTIFIED OF ANY CHANGE OR UPDATE OF THIS POLICY. WHEN THIS POLICY REFERANCES TO "WE" AND "US" THAT IS DEFINED AS [OUR TEAM](https://github.com/mrpollbot/Privacy/#the-team). YOU CAN [ASK FOR YOUR DATA TO BE DELETED](https://github.com/mrpollbot/Privacy/#how-can-i-request-my-data-to-be-deleted) AT ANY TIME.**
 
 ## Privacy Policy
