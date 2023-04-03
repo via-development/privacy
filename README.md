@@ -1,39 +1,44 @@
 # Mr Poll's Privacy Policy
+This privacy policy explains how Mr Poll, a Discord bot, collects, uses, and protects personal data. Mr Poll is committed to protecting the privacy of its users and ensuring that any personal data it collects is used only in accordance with applicable data protection laws.
 
-A privacy policy is a document that explains how an organization handles any person's 
-information gathered in its operations.
+This privacy policy was last updated on [insert date] and is effective as of [insert date]. Any changes to this policy will be communicated to users via the support server or email.
 
-**Effective: 11/13/2021**
+## Data We Collect
+Mr Poll collects and processes the following types of personal data from users when they use the service:
 
-**Last Updated: 11/13/2022**
+Message content and reactions for starboard, polls, and suggestions
+Channel ID, message ID, and guild ID for polls and suggestions
+User ID for command timeouts, suggestions, and polls
+Username and discriminator for suggestions
+We collect this data for the operation of the Modules which the service provides.
 
-**USERS WILL BE NOTIFIED OF ANY CHANGE OR UPDATE OF THIS POLICY. WHEN THIS POLICY REFERANCES TO "WE" AND "US" THAT IS DEFINED AS [OUR TEAM](https://github.com/mrpollbot/Privacy/#the-team). YOU CAN [ASK FOR YOUR DATA TO BE DELETED](https://github.com/mrpollbot/Privacy/#how-can-i-request-my-data-to-be-deleted) AT ANY TIME.**
+## Use of Personal Data
+Mr Poll uses personal data for the following purposes:
 
-## Privacy Policy
-We understand the importance of the data we collect from users who use our service and we have taken the necessary steps in making sure your data is safe and is used for it's intended purpose.\
-**We will answer any questions about our PRIVACY POLICY in the [support server](https://discord.gg/PyzsbsjRw3) or by emailing us at mrpolldiscord@gmail.com**
+To operate and improve the service
+To provide support and respond to inquiries from users
+To communicate with users about updates to the service
+To comply with legal obligations
+Disclosure of Personal Data
+Mr Poll does not sell or rent personal data to third parties. We may disclose personal data to third-party service providers who perform services on our behalf, such as hosting, data analysis, and customer service. We require all third-party service providers to respect the security of personal data and to treat it in accordance with applicable data protection laws.
 
-### The data we collect
-The data we collect and store from users/their servers are as follows:
+We may also disclose personal data to law enforcement or other government agencies as required by law or to protect our legal rights.
 
-* Message Content and Reactions for Starboard, Polls, and Suggestions
-* Channel ID, Message ID and Guild ID: For Polls and Suggestions.
-* User ID: For Command Timeouts, Suggestions and Polls
-* Username and Discriminator: For Suggestions
+## Data Security
+Mr Poll takes appropriate technical and organizational measures to protect personal data from unauthorized access, alteration, disclosure, or destruction. However, no system can be completely secure, and we cannot guarantee the security of personal data.
 
-### How is the data used?
-The data is used for the operation of the Modules which the service provides.
+## Data Retention
+Mr Poll retains personal data for as long as necessary to fulfill the purposes for which it was collected, including to comply with legal obligations, resolve disputes, and enforce agreements.
 
-__For example:__
-For suggestions we use the user's username and discriminator to display to everyone who created the suggestion.
+## User Rights
+Users have the following rights regarding their personal data:
 
-### Who has access to my data?
-Only the owner and the developers have access to your data for our service. Under no circumstance, anyone other than us will be provided access to it. We take adequate measures to keep it safe and secured. We will never sell or share your information with a third party.
+The right to access personal data we hold about them
+The right to rectify inaccurate personal data
+The right to erasure of personal data
+The right to restrict or object to the processing of personal data
+The right to data portability
+Users can exercise these rights by contacting us at **__mrpolldiscord@gmail.com__**.
 
-### How can I request my data to be deleted?
-* Please email **mrpolldiscord@gmail.com** to request for your data to be deleted, your user id will be required in the email.
-
-## The Team
-* Owner: [SteveTheMonki#0578](https://github.com/SteveTheMonki)
-* Developers: [Drx#7723](https://github.com/Drxckzyz) & [Littie#2979](https://github.com/Littie6amer) & [RJ1#6464](https://github.com/RaymondJiang1)
-* Manager: [Muffin.#0069](https://github.com/AMufInABox)
+## Contact Us
+If you have any questions or concerns about Mr Poll's privacy practices, please contact us at **__mrpolldiscord@gmail.com__**. We will respond to all requests within 30 days.
