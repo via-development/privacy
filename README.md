@@ -1,7 +1,7 @@
 # Mr Poll's Privacy Policy
 This privacy policy explains how Mr Poll, a Discord bot, collects, uses, and protects personal data. Mr Poll is committed to protecting the privacy of its users and ensuring that any personal data it collects is used only in accordance with applicable data protection laws.
 
-This privacy policy was last updated on `13th November 2022` and is effective as of `3rd April 2023`. Any changes to this policy will be communicated to users via the support server or email.
+This privacy policy was last updated on `7th of April 2023` and is effective as of `7th of April 2023`. Any changes to this policy will be communicated to users via the support server or email.
 
 ## Data We Collect
 Mr Poll collects and processes the following types of personal data from users when they use the service:
